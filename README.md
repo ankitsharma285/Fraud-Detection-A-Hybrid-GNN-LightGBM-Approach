@@ -20,6 +20,9 @@ The Hybrid Advantage: Combining these models allows for the detection of both "A
 # Repository Structure
 
 main_gnn.py: The core GNN training and graph construction script.
+
 lightGBM.py: LightGBM training with group-aggregation logic.
+
 engine.py: Training and evaluation loops for the PyTorch models.
+
 helper.py: Memory-efficient mapping and utility functions.
