@@ -13,7 +13,7 @@ LightGBM: Captures the "statistical" signal using advanced feature engineering, 
 
 LightGBM Baseline: Achieved a PR-AUC of 0.7606, proving the strength of tabular aggregates and tree-based splits.
 
-GNN Integration: Provided a complementary signal (PR-AUC 0.56) that focuses on the connectivity and shared history of fraudulent entities.
+GNN Integration: Provided a complementary signal (PR-AUC 0.58) that focuses on the connectivity and shared history of fraudulent entities.
 
 The Hybrid Advantage: Combining these models allows for the detection of both "Attribute Fraud" (unusual amounts) and "Relational Fraud" (linked accounts). [Currently working on this feature]
 
